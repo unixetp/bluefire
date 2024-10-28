@@ -1,14 +1,14 @@
 {
-    "users": [
+    "Users": [
         {
-            "username": "unix",
-            "hwid": "HWID-12345-ABCDE",
-            "isActive": true
+            "Username": "user1",
+            "HWID": "some-hwid",
+            "IsActive": true
         },
         {
-            "username": "test",
-            "hwid": "HWID-67890-FGHIJ",
-            "isActive": false
+            "Username": "user2",
+            "HWID": "another-hwid",
+            "IsActive": false
         }
     ]
 }
