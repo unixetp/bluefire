@@ -19,6 +19,11 @@
       "Username": "maxna",
       "HWID": "S-1-5-21-539862886-1762392464-4205235412-1001",
       "IsActive": false
+    },
+    {
+      "Username": "WDAGUtilityAccount",
+      "HWID": "S-1-5-21-2047949552-857980807-821054962-504",
+      "IsActive": true
     }
   ]
 }
