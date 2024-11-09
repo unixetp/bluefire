@@ -1,0 +1,17 @@
+[
+    {
+        "Title": "Script 1",
+        "Description": "This script performs task A",
+        "ScriptContent": "Console.WriteLine(\"Hello from Script 1!\");"
+    },
+    {
+        "Title": "Script 2",
+        "Description": "This script performs task B",
+        "ScriptContent": "int sum = 0; for(int i = 0; i < 10; i++) sum += i; Console.WriteLine(sum);"
+    },
+    {
+        "Title": "Script 3",
+        "Description": "This script performs task C",
+        "ScriptContent": "Console.WriteLine(DateTime.Now.ToString());"
+    }
+]
