@@ -63,7 +63,7 @@
     {
       "Username": "User",
       "HWID": "S-1-5-21-3284932386-3442529905-3824451568-1001",
-      "IsActive": true
+      "IsActive": false
     }
   ]
 }
