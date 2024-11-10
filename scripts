@@ -8,5 +8,20 @@
     "name": "Script2",
     "description": "Description of script 2",
     "script": "console.log('Script 2');"
+  },
+  {
+    "name": "Script3",
+    "description": "Description of script 1",
+    "script": "console.log('Script 1');"
+  },
+  {
+    "name": "Script4",
+    "description": "Description of script 1",
+    "script": "console.log('Script 1');"
+  },
+  {
+    "name": "Script5",
+    "description": "Description of script 1",
+    "script": "console.log('Script 1');"
   }
 ]
