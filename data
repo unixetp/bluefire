@@ -74,6 +74,11 @@
       "Username": "Bruno",
       "HWID": "S-1-5-21-4005801669-2598574594-602355426-1001",
       "IsActive": true
+    },
+    {
+      "Username": "fatality user",
+      "HWID": "S-1-5-21-877055771-1793357507-3180561989-1001",
+      "IsActive": true
     }
   ]
 }
