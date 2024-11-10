@@ -1,8 +1,8 @@
 [
   {
-    "name": "Script1",
-    "description": "Description of script 1",
-    "script": "console.log('Script 1');"
+    "name": "unixhub",
+    "description": "Universal troll script",
+    "script": "loadstring(game:HttpGet('https://raw.githubusercontent.com/unixetp/unixhub/refs/heads/main/script'))()"
   },
   {
     "name": "Script2",
