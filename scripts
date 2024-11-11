@@ -2,26 +2,26 @@
   {
     "name": "unixhub",
     "description": "Universal troll script by unix",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/unixetp/unixhub/refs/heads/main/script\"))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/unixetp/unixhub/refs/heads/main/script\"))()"
   },
   {
     "name": "Universal Fly",
     "description": "Just fly",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt\"))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt\"))()"
   },
   {
     "name": "Chat Bypasser",
     "description": "Bypass words in roblox",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BakaPraselol/MRCBV4LSB4KRS/main/Loader\"))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BakaPraselol/MRCBV4LSB4KRS/main/Loader\"))()"
   },
   {
     "name": "CG Hub",
     "description": "Dahood script",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/botdevXD/CGHub/main/Loader.lua\", true))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/botdevXD/CGHub/main/Loader.lua\", true))()"
   },
   {
     "name": "PrizzLife",
     "description": "Script for Prison Life",
-    "script": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/elliexmln/PrizzLife/main/pladmin.lua\"))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/elliexmln/PrizzLife/main/pladmin.lua\"))()"
   }
 ]
