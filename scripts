@@ -15,6 +15,11 @@
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/BakaPraselol/MRCBV4LSB4KRS/main/Loader\"))()"
   },
   {
+    "name": "Cat Bypasser",
+    "description": "Bypass words in roblox",
+    "ScriptContent": "loadstring(game:HttpGet("https://raw.githubusercontent.com/shadow62x/catbypass/main/upfix"))()"
+  },
+  {
     "name": "CG Hub",
     "description": "Dahood script",
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/botdevXD/CGHub/main/Loader.lua\", true))()"
@@ -23,5 +28,25 @@
     "name": "PrizzLife",
     "description": "Script for Prison Life",
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/elliexmln/PrizzLife/main/pladmin.lua\"))()"
+  },
+  {
+    "name": "SlapBattlesHub",
+    "description": "Script for Slap Battles",
+    "ScriptContent": "loadstring(game:HttpGet(("https://raw.githubusercontent.com/ionlyusegithubformcmods/1-Line-Scripts/main/Slap%20Battles")))()"
+  },
+  {
+    "name": "ScriptMasterHub",
+    "description": "Script for Slap Battles",
+    "ScriptContent": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/TheScriptMaster1/ScriptMaster-Hub/main/scriptmasterhub.lua')))()"
+  },
+  {
+    "name": "Yarhm",
+    "description": "Script for MM2",
+    "ScriptContent": "loadstring(game:HttpGet("https://raw.githubusercontent.com/Joystickplays/psychic-octo-invention/main/yarhm.lua", false))()"
+  },
+  {
+    "name": "XhubMM2",
+    "description": "Script for MM2",
+    "ScriptContent": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2'))()"
   }
 ]
