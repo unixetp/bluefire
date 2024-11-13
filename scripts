@@ -52,16 +52,16 @@
   {
     "name": "AimBot&WallHack",
     "description": "Universal aimbot&WallHack",
-    "ScriptContent": "loadstring(game:HttpGet(/"https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/DeleteMobV2.lua/", true))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/DeleteMobV2.lua\", true))()"
   },
   {
     "name": "YBA",
     "description": "Script for YBA",
-    "ScriptContent": "loadstring(game:HttpGet(/"https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v3.lua/"))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/zakater5/LuaRepo/main/YBA/v3.lua\"))()"
   },
   {
     "name": "BlackkingAndBobHub",
     "description": "Script for doors",
-    "ScriptContent": "loadstring(game:HttpGet(/"https://raw.githubusercontent.com/KINGHUB01/BlackKing-obf/main/Doors%20Blackking%20And%20BobHub/"))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KINGHUB01/BlackKing-obf/main/Doors%20Blackking%20And%20BobHub\"))()"
   }
 ]
