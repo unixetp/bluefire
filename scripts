@@ -5,6 +5,11 @@
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/unixetp/unixhub/refs/heads/main/script\"))()"
   },
   {
+    "name": "Elysium Hub",
+    "description": "*Featured* \\Fling things & people \\ Key: ElysiumFTAP",
+    "ScriptContent": "loadstring(game:HttpGet("https://raw.githubusercontent.com/Oxwoey/ElysiumHub/main/oxwoey.lua", true))()"
+  },
+  {
     "name": "Universal Fly",
     "description": "Just fly",
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/XNEOFF/FlyGuiV3/main/FlyGuiV3.txt\"))()"
