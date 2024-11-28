@@ -7,7 +7,7 @@
   {
     "name": "Elysium Hub",
     "description": "*Featured* \\Fling things & people \\ Key: ElysiumFTAP",
-    "ScriptContent": "loadstring(game:HttpGet("https://raw.githubusercontent.com/Oxwoey/ElysiumHub/main/oxwoey.lua", true))()"
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Oxwoey/ElysiumHub/main/oxwoey.lua\", true))()"
   },
   {
     "name": "Universal Fly",
