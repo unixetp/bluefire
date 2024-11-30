@@ -68,5 +68,10 @@
     "name": "BlackkingAndBobHub",
     "description": "Script for doors",
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KINGHUB01/BlackKing-obf/main/Doors%20Blackking%20And%20BobHub\"))()"
+  },
+  {
+    "name": "super cool script for crash your game",
+    "description": "Script for doors",
+    "ScriptContent": "print'нахуй иди мать ебал'"
   }
 ]
