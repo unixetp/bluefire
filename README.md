@@ -2,4 +2,4 @@
 ---
 ## Database editors: k1wix, unix
 ---
-## Bluefire softworks
+## Created by Bluefire Softworks
