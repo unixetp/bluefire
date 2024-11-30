@@ -1,5 +1,5 @@
 # Bluefire database 
-Database editors: K1wix, unix, sp33dwag0n
+Database editors: K1wix, unix, freshman
 
 ---
 
