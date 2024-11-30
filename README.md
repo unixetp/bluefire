@@ -1,5 +1,7 @@
-### Bluefire database
+# Bluefire database 
+Database editors: K1wix, unix, sp33dwag0n
+
 ---
-## Database editors: k1wix, unix, sp3dwag0n
----
-## Created by Bluefire Softworks
+
+### Created by Bluefire Softworks
+With love, bluefire❤️
