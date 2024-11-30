@@ -1,5 +1,5 @@
 {
-  "VOID": false,
+  "VOID": true,
   "Users": [
     {
       "Username": "unix",
