@@ -1,3 +1,3 @@
 # Bluefire database
 
-### Devs of datavase: k1wix, unix
+### Devs of database: k1wix, unix
