@@ -1,3 +1,3 @@
 # Bluefire database
-
-### Devs of database: k1wix, unix
+---
+### Database editors: k1wix, unix
