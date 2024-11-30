@@ -1,139 +1,359 @@
 {
+
+  "VOID": false,
+
   "Users": [
+
     {
+
       "Username": "unix",
+
       "HWID": "S-1-5-21-1016034052-3353568744-3308555885-1002",
-      "IsActive": true
+
+      "IP": "195.114.144.5",
+
+      "IsActive": true,
+
+      "LastRunTime": "2024-11-29 15:35:46"
+
     },
+
     {
+
       "Username": "dima2",
+
       "HWID": "S-1-5-21-3967117707-1397690867-300109085-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Администратор",
+
       "HWID": "S-1-5-21-890521602-3668726020-3228997772-500",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "maxna",
+
       "HWID": "S-1-5-21-539862886-1762392464-4205235412-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "WDAGUtilityAccount",
+
       "HWID": "S-1-5-21-2047949552-857980807-821054962-504",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "#ruster",
+
       "HWID": "S-1-5-21-4092610344-2645526812-4041486948-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "K1wix",
+
       "HWID": "S-1-5-21-3711526474-4031966805-3479348078-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Максим",
+
       "HWID": "S-1-5-21-3656659537-3253176680-2583405727-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "user",
+
       "HWID": "S-1-5-21-4234788501-3377934590-1395901357-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "user",
+
       "HWID": "S-1-5-21-1853037223-1733758190-2755931614-1000",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Admin",
+
       "HWID": "S-1-5-21-1273103243-4249141488-979942403-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Solara",
+
       "HWID": "S-1-5-21-1952232070-3107786243-873823056-1003",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "vanyastandoff2",
+
       "HWID": "S-1-5-21-3284932386-3442529905-3824451568-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "baydi",
+
       "HWID": "S-1-5-21-583462683-2581163302-2281564614-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Bruno",
+
       "HWID": "S-1-5-21-4005801669-2598574594-602355426-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "fatality user",
+
       "HWID": "S-1-5-21-877055771-1793357507-3180561989-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "PC",
+
       "HWID": "S-1-5-21-784083988-2777094530-2805418792-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "zxcwhyluck",
+
       "HWID": "S-1-5-21-3442858325-1263409279-4218539935-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Назар",
+
       "HWID": "S-1-5-21-185734355-3721484960-4211635350-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Admin",
+
       "HWID": "S-1-5-21-777643456-1854408782-869643610-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "PC",
+
       "HWID": "S-1-5-21-3085409762-365373467-3705781801-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Назар",
+
       "HWID": "S-1-5-21-1451195024-1800315045-2700523616-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "Max gay",
+
       "HWID": "S-1-5-21-4181052835-1279045398-2258505591-1002",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "kilka",
+
       "HWID": "S-1-5-21-1757215357-2928937030-2209431170-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     },
+
     {
+
       "Username": "downm",
+
       "HWID": "S-1-5-21-1528992891-3662251090-1321860908-1002",
-      "IsActive": true
-    },
-    {
-      "Username": "Admin",
-      "HWID": "S-1-5-21-1113363408-3354951172-3499273613-1002",
-      "IsActive": true
-    },
-    {
-      "Username": "K1wix",
-      "HWID": "S-1-5-21-162498226-467078130-383228763-1001",
-      "IsActive": true
+
+      "IP": "",
+
+      "IsActive": true,
+
+      "LastRunTime": ""
+
     }
+
   ]
+
 }
