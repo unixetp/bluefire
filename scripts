@@ -70,8 +70,8 @@
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/KINGHUB01/BlackKing-obf/main/Doors%20Blackking%20And%20BobHub\"))()"
   },
   {
-    "name": "Chat Bypasser 2",
-    "description": "buy pass chat filter  ",
-    "ScriptContent": "print'нахуй иди мать ебал'"
+    "name": "jerk off",
+    "description": "Universal, скрипт на дрочку",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://pastefy.app/wa3v2Vgm/raw\"))('Spider Script')"
   }
 ]
