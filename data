@@ -5,8 +5,6 @@
       "Username": "unix",
       "HWID": "S-1-5-21-1016034052-3353568744-3308555885-1002",
       "MAC": "00:14:22:01:23:45",
-      "MotherboardUUID": "12345678-ABCD-1234-5678-9ABCDEF01234",
-      "DiskSerial": "XYZ1234567890",
       "IP": "188.163.48.63",
       "IsActive": false,
       "LastRunTime": "2024-12-09 20:16:37"
