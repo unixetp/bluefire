@@ -1,19 +1,13 @@
 {
-  "VOID": false,
+  "VOID": true,
   "Users": [
     {
       "Username": "unix",
       "HWID": "S-1-5-21-1016034052-3353568744-3308555885-1002",
+      "MAC": "f0:1f:af:34:8b:a1",
       "IP": "188.163.48.63",
       "IsActive": false,
       "LastRunTime": "2024-12-09 20:16:37"
-    },
-    {
-      "Username": "Administrator",
-      "HWID": "S-1-5-21-2921130207-1657314152-3032490923-500",
-      "IP": "80.95.44.38",
-      "IsActive": true,
-      "LastRunTime": "2024-12-11 12:09:54"
     }
   ]
 }
