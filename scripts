@@ -2,7 +2,7 @@
 [
   {
     "name": "unixhub",
-    "description": "Universal troll script by unix",
+    "description": "супер ахуенный хаб от униха",
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/unixetp/unixhub/refs/heads/main/script\"))()"
   },
   {
@@ -72,7 +72,7 @@
   },
   {
     "name": "jerk off",
-    "description": "Universal, скрипт на дрочку",
+    "description": "Universal, скрипт на дрочку", 
     "ScriptContent": "loadstring(game:HttpGet(\"https://pastefy.app/wa3v2Vgm/raw\"))('Spider Script')"
   }
 ]
