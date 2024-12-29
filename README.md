@@ -1,5 +1,5 @@
 # Bluefire database 
-Database editors: K1wix, unix, freShy
+Database editors: freShy
 ---
 
 ### Created by Bluefire Softworks
