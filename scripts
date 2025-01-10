@@ -21,7 +21,7 @@
   },
   {
     "name": "Mspaint",
-    "description": "Doors / Fisch / Babft / 3008 / Universal",
+    "description": "Doors / Fisch / 3008 / Universal",
     "ScriptContent": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/002c19202c9946e6047b0c6e0ad51f84.lua\", true))()"
   }
 ]
