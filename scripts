@@ -18,5 +18,10 @@
     "name": "Xhub",
     "description": "Murder Mystery 2 // mm2",
     "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2\", true))()"
+  },
+  {
+    "name": "Mspaint",
+    "description": "DOORS 👁️",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/002c19202c9946e6047b0c6e0ad51f84.lua\", true))()"
   }
 ]
