@@ -1,7 +1,17 @@
 [
   {
     "name": "unixhub",
-    "description": "universal troll",
-    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/unixetp/unixhub/refs/heads/main/script\"))()"
+    "description": "Universal troll",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://bluefirexec.netlify.app/unixskid\"))()"
+  },
+  {
+    "name": "Explosion",
+    "description": "Natural Disasters [KEY: YesKJ1230JJ]",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/unixetp/explosion/refs/heads/main/keysystem.lua\"))()"
+  },
+  {
+    "name": "Elysium",
+    "description": "Fling things and people",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Oxwoey/ElysiumHub/main/oxwoey.lua\", true))()"
   }
 ]
