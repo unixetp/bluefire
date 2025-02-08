@@ -1,3 +1,4 @@
+print('[BlueAPI] Thanks for using BlueAPI! 🎉')
 local Notification = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
