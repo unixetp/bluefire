@@ -9,7 +9,7 @@
 
 -- Instances
 
-local Notification = Instance.new("CoreGUI")
+local Notification = Instance.new("CoreGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
 local TextLabel = Instance.new("TextLabel")
