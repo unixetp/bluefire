@@ -31,7 +31,7 @@ TextLabel.BorderColor3 = Color3.new(0, 0, 0)
 TextLabel.BorderSizePixel = 0
 TextLabel.Size = UDim2.new(1, 0, 0.666666687, 0)
 TextLabel.Font = Enum.Font.SourceSansBold
-TextLabel.Text = "BlueAPI"
+TextLabel.Text = "BlueAPI - v1.0"
 TextLabel.TextColor3 = Color3.new(0.921569, 0.921569, 0.921569)
 TextLabel.TextSize = 24
 
