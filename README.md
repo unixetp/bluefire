@@ -1,6 +1,7 @@
-# Bluefire database 
+# boobsfire database 
 Database editors: большие пениса, unix, freShy
 ---
 
-### Created by Bluefire Softcocks
-With penis, bboobsfire
+### Created by boobsfire Softcocks
+With penis, boobsfire
+
