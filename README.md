@@ -1,6 +1,6 @@
 # Bluefire database 
-Database editors: K1wix, unix, freShy
+Database editors: большие пениса, unix, freShy
 ---
 
 ### Created by Bluefire Softworks
-With love, bluefire❤️
+With penis, bboobsfire
