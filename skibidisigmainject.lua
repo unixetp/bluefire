@@ -1,7 +1,7 @@
 -- BlueAPI
 -- Notification
 -- Version 1.0.0
-print('[BlueAPI] Thanks for using BlueAPI! 🎉')
+print('GET RAIDED BY KIWIX')
 
 -- Instances
 
@@ -38,7 +38,7 @@ TextLabel.BackgroundTransparency = 1
 TextLabel.Position = UDim2.new(0.01, 0, 0, 0)
 TextLabel.Size = UDim2.new(0.95, 0, 0.66, 0)
 TextLabel.Font = Enum.Font.Code
-TextLabel.Text = "BlueAPI"
+TextLabel.Text = "Уних еблан"
 TextLabel.TextColor3 = Color3.new(1, 1, 1)
 TextLabel.TextScaled = true
 TextLabel.TextWrapped = true
@@ -52,7 +52,7 @@ TextLabel_2.BackgroundTransparency = 1
 TextLabel_2.Position = UDim2.new(0.01, 0, 0.37, 0)
 TextLabel_2.Size = UDim2.new(0.95, 0, 0.62, 0)
 TextLabel_2.Font = Enum.Font.Code
-TextLabel_2.Text = "Injected / v1.0"
+TextLabel_2.Text = "Injected / пошел нахуй"
 TextLabel_2.TextColor3 = Color3.new(0, 1, 0)
 TextLabel_2.TextScaled = true
 TextLabel_2.TextWrapped = true
