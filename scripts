@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Elysium",
+    "description": "Fling things and people",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Oxwoey/ElysiumHub/main/oxwoey.lua\", true))()"
+  },
+  {
+    "name": "Xhub",
+    "description": "Murder Mystery 2 / mm2",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2\", true))()"
+  },
+  {
+    "name": "Mspaint",
+    "description": "Doors / Fisch / 3008 / Universal",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://api.luarmor.net/files/v3/loaders/002c19202c9946e6047b0c6e0ad51f84.lua\", true))()"
+  },
+  {
+    "name": "R4D",
+    "description": "Brookhaven / troll",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/M1ZZ001/BrookhavenR4D/main/Brookhaven%20R4D%20Script\", true))()"
+  },
+  {
+    "name": "Nexus",
+    "description": "Big Hub",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://exploitfin.netlify.app/Nexus/Loader\", true))()"
+  }
+]
