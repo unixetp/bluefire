@@ -38,5 +38,35 @@
     "name": "Ez Hub",
     "description": "150+ Games",
     "ScriptContent": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug42O/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()"
+  },
+  {
+    "name": "OwlHub",
+    "description": "Aimbot / Esp",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/CriShoux/OwlHub/master/OwlHub.txt\"))()"
+  },
+  {
+    "name": "Dex Explorer",
+    "description": "Decompiler / Scripts",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://cdn.wearedevs.net/scripts/Dex%20Explorer.txt\"))()"
+  },
+  {
+    "name": "NamelessAdmin",
+    "description": "Commands / OP",
+    "ScriptContent": "loadstring(game:HttpGet('https://raw.githubusercontent.com/FilteringEnabled/NamelessAdmin/main/Source'))()"
+  },
+  {
+    "name": "infiniteyield",
+    "description": "Commands / OP",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source\"))()"
+  },
+  {
+    "name": "UNC Test",
+    "description": "UNC Test",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://github.com/ltseverydayyou/uuuuuuu/blob/main/UNC%20test?raw=true\"))()"
+  },
+  {
+    "name": "sUNC Test",
+    "description": "sUNC Test",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/HummingBird8/HummingRn/main/sUNCTestGET\"))()"
   }
 ]
