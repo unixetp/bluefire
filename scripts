@@ -23,5 +23,20 @@
     "name": "Nexus",
     "description": "Big Hub",
     "ScriptContent": "loadstring(game:HttpGet(\"https://exploitfin.netlify.app/Nexus/Loader\", true))()"
+  },
+  {
+    "name": "Solaris",
+    "description": "Aimbot / Esp / Arsenal",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/toasty-dev/pissblox/main/solaris_bootstrapper.lua\",true))()"
+  },
+  {
+    "name": "KarolHub",
+    "description": "100 Games",
+    "ScriptContent": "loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Karolmn9900/karolhub/refs/heads/main/script\"))()"
+  },
+  {
+    "name": "Ez Hub",
+    "description": "150+ Games",
+    "ScriptContent": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/debug42O/Ez-Industries-Launcher-Data/master/Launcher.lua'),true))()"
   }
 ]
